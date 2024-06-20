@@ -1,0 +1,79 @@
+{
+    "players": [
+      {
+        "id": 1,
+        "name": "LeBron James"
+      },
+      {
+        "id": 2,
+        "name": "Stephen Curry"
+      },
+      {
+        "id": 3,
+        "name": "Kevin Durant"
+      },
+      {
+        "id": 4,
+        "name": "LeBron James"
+      },
+      {
+        "id": 5,
+        "name": "Stephen Curry"
+      },
+      {
+        "id": 6,
+        "name": "Kevin Durant"
+      },
+      {
+        "id": 7,
+        "name": "LeBron James"
+      },
+      {
+        "id": 8,
+        "name": "Stephen Curry"
+      },
+      {
+        "id": 9,
+        "name": "Kevin Durant"
+      }
+    ],
+    "playerPics": [
+      {
+        "id": 1,
+        "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcR934eRN5LsxOmcLW0T72pTU--n-8PufDJO9bsbHrK2EaReSFOh8NF4bCFGZvs1pskOk_nmJvw7HPGshDs"
+      },
+      {
+        "id": 2,
+        "url": "https://wallpapers.com/images/featured/steph-curry-pictures-u2kmhws3rmche2ng.jpg"
+      },
+      {
+        "id": 3,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU2lajNoJLJ_STUBOVQHuKcyaO86fP1FfBVg&s"
+      },
+      {
+        "id": 4,
+        "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcR934eRN5LsxOmcLW0T72pTU--n-8PufDJO9bsbHrK2EaReSFOh8NF4bCFGZvs1pskOk_nmJvw7HPGshDs"
+      },
+      {
+        "id": 5,
+        "url": "https://wallpapers.com/images/featured/steph-curry-pictures-u2kmhws3rmche2ng.jpg"
+      },
+      {
+        "id": 6,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU2lajNoJLJ_STUBOVQHuKcyaO86fP1FfBVg&s"
+      },
+      {
+        "id": 7,
+        "url": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcR934eRN5LsxOmcLW0T72pTU--n-8PufDJO9bsbHrK2EaReSFOh8NF4bCFGZvs1pskOk_nmJvw7HPGshDs"
+      },
+      {
+        "id": 8,
+        "url": "https://wallpapers.com/images/featured/steph-curry-pictures-u2kmhws3rmche2ng.jpg"
+      },
+      {
+        "id": 9,
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU2lajNoJLJ_STUBOVQHuKcyaO86fP1FfBVg&s"
+      }
+    ]
+  }
+  

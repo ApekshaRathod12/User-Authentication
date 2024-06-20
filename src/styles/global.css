@@ -1,0 +1,57 @@
+h1, h5 {
+  color: rgb(42, 165, 108);
+  text-align: center;
+}
+
+label {
+  color: rgb(42, 165, 108);
+}
+
+.own_style {
+  width: 350px;
+  height: 400px;
+}
+
+.own_style:hover {
+  box-shadow: 2px 2px 12px black, 2px -2px 12px black;
+}
+
+.img_hover {
+  width: 350px;
+  height: 265px;
+}
+
+.not_found {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
+
+.form_page {
+  width: 500px;
+  padding: 50px;
+  border-radius: 12px;
+  border: 1px solid rgba(0, 0, 0, 0.347);
+  box-shadow: 2px 2px 12px black, -2px -2px 12px black;
+}
+
+.input_container {
+  margin-bottom: 1rem;
+}
+
+.input_wrapper {
+  position: relative;
+}
+
+.password-toggle-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #aaa;
+}
+
+.password-toggle-icon:hover {
+  color: #333;
+}/*# sourceMappingURL=global.css.map */

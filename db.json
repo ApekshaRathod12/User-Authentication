@@ -1,0 +1,25 @@
+{
+  "registration": [
+    {
+      "id": "fb3d",
+      "username": "abc",
+      "email": "abc@gmail.com",
+      "password": "Abc123",
+      "confirm_password": "Abc123"
+    },
+    {
+      "id": "2a22",
+      "username": "abc",
+      "email": "ab@gmail.com",
+      "password": "Abc123",
+      "confirm_password": "Abc123"
+    },
+    {
+      "id": "46c9",
+      "username": "Apexa12",
+      "email": "a@gmail.com",
+      "password": "Aa1234",
+      "confirm_password": "Aa1234"
+    }
+  ]
+}
